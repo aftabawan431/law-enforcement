@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514968793436",
+    "project_id": "er-alarm",
+    "storage_bucket": "er-alarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514968793436:android:23d328490e7b7704c39199",
+        "android_client_info": {
+          "package_name": "ais.er.system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514968793436-18k9bus41a75h30kna8h9f6npvuu1e6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi__6rqVjr0I8pm6RbnCqEaQrOPpLLq9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514968793436-18k9bus41a75h30kna8h9f6npvuu1e6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
